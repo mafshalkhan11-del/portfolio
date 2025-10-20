@@ -1,0 +1,31 @@
+div{
+    border: 2px solid black;
+}
+.main {
+    height: 200PX ;
+    width: 1330PX;
+    margin: auto;
+}
+.namediv{
+    margin-top: 150PX;
+font-size: 30px;
+margin-left: 30px;
+
+}
+.linksdiv{
+    float: right;
+    font-size: 30PX;
+    margin-top: 60px;
+
+}
+ul{
+    list-style: none;
+
+}
+ul>li{
+    display: inline-block;
+    my name is m afshal khan and ai  am a 
+}
+button{
+    font-size: 20px;
+}
